@@ -1,6 +1,6 @@
 
 
-- 🔓 Cyber Security Analysis Specialist
+- 🔓 Cyber Security Traineee
 - 🐉 Pwn.college , Tryhackme , hackthebox Solver
 - ⚙️ I take part in Web/Mobile Application Penetration Testing
 - ⚔️ I participate in CTF events + solve labs
